@@ -1,0 +1,7 @@
+{
+  "min_original": 0,
+  "max_original": 255,
+  "min_normalise": 0.0,
+  "max_normalise": 1.0,
+  "formule": "pixel / 255.0"
+}
